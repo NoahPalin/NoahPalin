@@ -1,7 +1,7 @@
 # Noah Palin
 **`Full-Stack Web Developer`**
 
-Hi there, I'm an full-stack developer based in the GTA area of Ontario Canada! I am currently focusing on improving and broadening my skillset as I aim to start a career as a junior web dev.
+Hi there, I'm an full-stack developer based in the GTA area of Ontario Canada! I am currently focusing on improving and broadening my skillset as I start a career as a junior web dev.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
